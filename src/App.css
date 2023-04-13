@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.heading{
+  color: dodgerblue;
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+}
+
+.box img{
+  width: 250px;
+  height: 300px;
+  margin: 20px 0;
+}
+
